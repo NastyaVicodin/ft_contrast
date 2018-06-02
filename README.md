@@ -1,8 +1,8 @@
 # ft_contrast
 
-	Applying contrast to a picture in the .pgm format. Using parallele threads to do the contrast.
+Applying contrast to a picture in the .pgm format. Using parallele threads to do the contrast.
 
-	Compiling as:
+Compiling as:
 ```ft_contrast -f image.pgm -c 12 -o pouet.pgm```
 
 # Allowed functions
